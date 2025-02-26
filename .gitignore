@@ -1,0 +1,17 @@
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+
+# 编辑器和IDE文件
+.vscode/
+.idea/
+*.swp
+*~
+
+# 编译输出
+*.pdf
+*.docx
+*.aux
+*.log
+*.out 
