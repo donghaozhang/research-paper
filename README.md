@@ -10,6 +10,8 @@ This repository contains all files and resources related to my research papers. 
 
 - [Native Sparse Attention (NSA)](https://donghaozhang.github.io/research-paper/nsa.html) - A novel attention mechanism designed to improve the efficiency of long-range context modeling | 一种新型注意力机制，旨在提高长距离上下文建模的效率
 
+- [Fractal Generative Models](https://github.com/donghaozhang/research-paper/blob/main/【导读】Fractal%20Generative%20Models.md) - A new generative model that builds fractal architectures with self-similarity by recursively calling atomic generative modules | 一种新的生成模型，通过递归调用原子生成模块构建具有自相似性的分形架构
+
 ## Contact | 联系方式
 
 For questions or collaboration opportunities, please contact me through: | 如有问题或合作意向，请通过以下方式联系我：
